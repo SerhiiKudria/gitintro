@@ -1,0 +1,8 @@
+coverage/
+#
+tmp
+#ignore vscode config files
+.vscode/ 
+#ignore vscode config files
+.*
+!.gitignore
